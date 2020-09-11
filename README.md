@@ -1,2 +1,2 @@
-# js-dev-env-demo
-Course demo
+#GADS 2020 MWS practice project
+
